@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="jdk8u312-b01">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://C:/Program Files (x86)/Java/jdk8u312-b01/sample/annotations/DependencyChecker/PluginChecker/src" />
+      <root url="file://C:/Program Files (x86)/Java/jdk8u312-b01/sample/annotations/DependencyChecker/Plugins/src" />
+      <root url="file://C:/Program Files (x86)/Java/jdk8u312-b01/sample/annotations/Validator/src" />
+      <root url="file://C:/Program Files (x86)/Java/jdk8u312-b01/sample/forkjoin/mergesort" />
+      <root url="file://C:/Program Files (x86)/Java/jdk8u312-b01/sample/jmx/jmx-scandir/src" />
+      <root url="file://C:/Program Files (x86)/Java/jdk8u312-b01/sample/jmx/jmx-scandir/test" />
+      <root url="file://C:/Program Files (x86)/Java/jdk8u312-b01/sample/lambda/BulkDataOperations/src" />
+      <root url="file://C:/Program Files (x86)/Java/jdk8u312-b01/sample/lambda/DefaultMethods" />
+      <root url="file://C:/Program Files (x86)/Java/jdk8u312-b01/sample/nio/chatserver" />
+      <root url="file://C:/Program Files (x86)/Java/jdk8u312-b01/sample/nio/file" />
+      <root url="file://C:/Program Files (x86)/Java/jdk8u312-b01/sample/nio/multicast" />
+      <root url="file://C:/Program Files (x86)/Java/jdk8u312-b01/sample/nio/server" />
+      <root url="file://C:/Program Files (x86)/Java/jdk8u312-b01/sample/scripting/scriptpad/src" />
+      <root url="file://C:/Program Files (x86)/Java/jdk8u312-b01/sample/try-with-resources/src" />
+      <root url="file://C:/Program Files (x86)/Java/jdk8u312-b01" />
+    </SOURCES>
+    <jarDirectory url="file://C:/Program Files (x86)/Java/jdk8u312-b01" recursive="false" type="SOURCES" />
+  </library>
+</component>
